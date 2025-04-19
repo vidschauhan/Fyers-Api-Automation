@@ -1,10 +1,10 @@
 #credentials
-client_id = 'WYLHUSF9WG-100'
-secret_key = 'U1MCW4C7VH'
+client_id = ''
+secret_key = ''
 redirect_uri ='https://www.google.com/'
-user_name='XV27647'
-totp_key='7D3GHX3RGENSMO7UNTPTUL66FNDF6Y2J'
-pin1 =1
-pin2 =6
-pin3 =0
-pin4 =7
+user_name=''
+totp_key=''
+pin1 =
+pin2 =
+pin3 =
+pin4 =
